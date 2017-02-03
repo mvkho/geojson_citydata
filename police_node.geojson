@@ -1,0 +1,623 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/29334078",
+      "properties": {
+        "@id": "node/29334078",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "85",
+        "addr:postcode": "10713",
+        "addr:street": "Rudolstädter Straße",
+        "amenity": "police",
+        "name": "Abschnitt 26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.305447,
+          52.4856723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29695282",
+      "properties": {
+        "@id": "node/29695282",
+        "amenity": "police",
+        "name": "Abschnitt 33",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3536389,
+          52.5336632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/59907688",
+      "properties": {
+        "@id": "node/59907688",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "35",
+        "addr:postcode": "13507",
+        "addr:street": "Berliner Straße",
+        "addr:suburb": "Tegel",
+        "amenity": "police",
+        "name": "Abschnitt 11",
+        "phone": "+0304664111700",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.289119,
+          52.5824326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/84644753",
+      "properties": {
+        "@id": "node/84644753",
+        "amenity": "police",
+        "name": "Abschnitt 53 Kreuzberg-Nord",
+        "name:de": "Abschnitt 53 Kreuzberg-Nord",
+        "name:en": "District 53 North Kreuzberg",
+        "wheelchair": "no",
+        "wheelchair_toilet": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3905699,
+          52.5049589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/206102770",
+      "properties": {
+        "@id": "node/206102770",
+        "amenity": "police",
+        "name": "Polizei Abschnitt 46",
+        "phone": "+49 30 4664 446 701",
+        "website": "http://www.berlin.de/polizei/bezirk/dir4/a46.html",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3475906,
+          52.4276915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/242769298",
+      "properties": {
+        "@id": "node/242769298",
+        "amenity": "police",
+        "name": "Abschnitt 22",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2269115,
+          52.5280167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/244118624",
+      "properties": {
+        "@id": "node/244118624",
+        "amenity": "police",
+        "name": "Abschnitt 55",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4347588,
+          52.479156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/261964988",
+      "properties": {
+        "@id": "node/261964988",
+        "amenity": "police",
+        "created_by": "Potlatch 0.8c",
+        "name": "Bundeskriminalamt Sicherungsgruppe Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.454484,
+          52.4910067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/261965140",
+      "properties": {
+        "@id": "node/261965140",
+        "amenity": "police",
+        "created_by": "Potlatch 0.8c",
+        "name": "Gemeinsames Terrorismusabwehrzentrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4545527,
+          52.4927836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/262239555",
+      "properties": {
+        "@id": "node/262239555",
+        "amenity": "police",
+        "description": "WSP Ost; Baumschulenstr. 1; 12437 Berlin / Tel.: (030) 4664-983360",
+        "name": "Wasserschutzpolizei Wache 4",
+        "note": "Wasserschutzpolizei",
+        "seamark:building:function": "water-police_station",
+        "seamark:information": "Wasserschutzpolizei Wache 4",
+        "seamark:type": "building",
+        "waterway:sign": "river_police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4957713,
+          52.4712681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/298495062",
+      "properties": {
+        "@id": "node/298495062",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "175",
+        "addr:postcode": "10119",
+        "addr:street": "Brunnenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "police",
+        "contact:phone": "+49 30 4664331700",
+        "contact:website": "http://www.berlin.de/polizei/bezirk/dir3/a31.html",
+        "name": "Polizeidirektion 3 - Abschnitt 31",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3987395,
+          52.5323989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/313372791",
+      "properties": {
+        "@id": "node/313372791",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "14057",
+        "addr:street": "Kaiserdamm",
+        "addr:suburb": "Charlottenburg",
+        "amenity": "police",
+        "name": "Polizeidirektion 2 - Abschnitt 24",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.295745,
+          52.511287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332227820",
+      "properties": {
+        "@id": "node/332227820",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "10965",
+        "addr:street": "Golßener Straße",
+        "amenity": "police",
+        "name": "Direktion 5",
+        "phone": "030 4664581700",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4006405,
+          52.4844543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344464723",
+      "properties": {
+        "@id": "node/344464723",
+        "amenity": "police",
+        "name": "Polizeidirektion 1 - Abschnitt 15",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4067095,
+          52.5409254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/364736489",
+      "properties": {
+        "@id": "node/364736489",
+        "amenity": "police",
+        "name": "Abschnitt 56",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4783085,
+          52.4194509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/415980648",
+      "properties": {
+        "@id": "node/415980648",
+        "amenity": "police",
+        "name": "Wasserschutzpolizei West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2249803,
+          52.5640711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/432447117",
+      "properties": {
+        "@id": "node/432447117",
+        "amenity": "police",
+        "name": "Polizeipräsidium Berlin",
+        "name:de": "Polizeipräsidium Berlin",
+        "name:en": "Berlin Police Presidium",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3870044,
+          52.482947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/440877341",
+      "properties": {
+        "@id": "node/440877341",
+        "amenity": "police",
+        "name": "Abschnitt 45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3063404,
+          52.4434586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/509897018",
+      "properties": {
+        "@id": "node/509897018",
+        "amenity": "police",
+        "name": "Bundespolizei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4974242,
+          52.5093037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/530786748",
+      "properties": {
+        "@id": "node/530786748",
+        "amenity": "police",
+        "name": "Bundespolizei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3338634,
+          52.5085099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/573418582",
+      "properties": {
+        "@id": "node/573418582",
+        "amenity": "police",
+        "name": "Stadionwache"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.238435,
+          52.513314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/614482788",
+      "properties": {
+        "@id": "node/614482788",
+        "amenity": "police",
+        "name": "Polizei Berlin Abschnitt 32",
+        "website": "http://www.berlin.de/polizei/bezirk/dir3/a32.html",
+        "wheelchair": "no",
+        "wikipedia": "de:Polizeipräsidium Alexanderplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4156959,
+          52.524282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/659031944",
+      "properties": {
+        "@id": "node/659031944",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "101",
+        "addr:postcode": "10407",
+        "addr:street": "Storkower Straße",
+        "addr:suburb": "Prenzlauer Berg",
+        "amenity": "police",
+        "name": "Polizei Berlin Abschnitt 16",
+        "website": "http://www.berlin.de/polizei/bezirk/dir1/a16.html",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4523417,
+          52.5379765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/988558167",
+      "properties": {
+        "@id": "node/988558167",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "145",
+        "addr:postcode": "10557",
+        "addr:street": "Alt-Moabit",
+        "addr:suburb": "Moabit",
+        "amenity": "police",
+        "name": "Abschnitt 34",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3659377,
+          52.5220276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1038359981",
+      "properties": {
+        "@id": "node/1038359981",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "13437",
+        "addr:street": "Am Nordgraben",
+        "addr:suburb": "Wittenau",
+        "amenity": "police",
+        "name": "Abschnitt 12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3258878,
+          52.58724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1232013624",
+      "properties": {
+        "@id": "node/1232013624",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "12557",
+        "addr:street": "Karlstraße",
+        "addr:suburb": "Köpenick",
+        "amenity": "police",
+        "name": "Polizeidirektion 6, Abschnitt 66",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5796589,
+          52.442396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1235571254",
+      "properties": {
+        "@id": "node/1235571254",
+        "amenity": "police",
+        "name": "Direktionshundertschaft 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2446746,
+          52.6171547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1288824514",
+      "properties": {
+        "@id": "node/1288824514",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:postcode": "10243",
+        "addr:suburb": "Friedrichshain",
+        "amenity": "police",
+        "level": "0",
+        "name": "Bundespolizei",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4353317,
+          52.5094753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2027108471",
+      "properties": {
+        "@id": "node/2027108471",
+        "amenity": "police",
+        "name": "Direktion 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5378808,
+          52.5352048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2082331580",
+      "properties": {
+        "@id": "node/2082331580",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2928029,
+          52.5545306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2558589522",
+      "properties": {
+        "@id": "node/2558589522",
+        "amenity": "police",
+        "name": "Zentrale Serviceeinheit",
+        "website": "http://www.berlin.de/polizei/wir-ueber-uns/struktur/zse/",
+        "wheelchair": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4161848,
+          52.5247312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3230826578",
+      "properties": {
+        "@id": "node/3230826578",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "10243",
+        "addr:street": "Wedekindstraße",
+        "addr:suburb": "Friedrichshain",
+        "amenity": "police",
+        "contact:website": "http://www.berlin.de/polizei/bezirk/dir5/a58.html",
+        "name": "Polizei Berlin Abschnitt 51",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.444588,
+          52.5122072
+        ]
+      }
+    }
+  ]
+}
